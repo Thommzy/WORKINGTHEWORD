@@ -1049,9 +1049,19 @@ ul.portfolio-area li figure {
 
 /*-- services page --*/
 .inner-banner{
-	background: url(../images/banner1.jpg) no-repeat 0px 0px;
+	background: url(../images/banner5.jpeg) no-repeat 0px 0px;
 	background-size: cover;
-	min-height: 200px;
+	min-height: 450px;
+}
+.inner-banner_1{
+    background: url(../images/banner6.jpeg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 450px;
+}
+.inner-banner_2{
+    background: url(../images/banner7.jpeg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 424px;
 }
 .serv_grid1 i.fas {
     font-size: 40px;
@@ -1127,7 +1137,7 @@ ul.portfolio-area li figure {
 
 /*-- welcome bottom --*/
 .welcome_bottom{
-	background: url(../images/banner2.jpg) no-repeat 0px 0px;
+	background: url(../images/banner4.jpeg) no-repeat 0px 0px;
 	background-size: cover;
 }
  .welcome_right:after{
