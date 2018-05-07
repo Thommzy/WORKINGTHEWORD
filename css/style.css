@@ -21,6 +21,11 @@ body a{
 a:hover{
 	text-decoration:none;
 }
+a.navbar-brand {
+    font-size: 25px !important;
+    font-style: italic;
+    font-family: museo;
+}
 input[type="button"],input[type="submit"],.contact-form input[type="submit"]{
 	transition:0.5s all;
 	-webkit-transition:0.5s all;
