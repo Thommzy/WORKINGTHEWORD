@@ -92,21 +92,21 @@
 	<div class="container">
 		<h3 class="heading text-center text-capitalize mb-5">Contact Us</h3>
 		<div class="row contact_information">
-			<div class="col-md-6 contact_left p-lg-5 p-4">
+				<div class="col-md-6 contact_left p-lg-5 p-4">
 				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1981.6364901510576!2d3.3535584028665166!3d6.612966166490861!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b93cb9599c79f%3A0x335c205a6fcb0b36!2sTesting+Ground+Bus+Stop!5e0!3m2!1sen!2sng!4v1525438781691" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 			</div>
 			<div class="col-md-6 mt-md-0 mt-4">
 				<div class="contact_right p-lg-5 p-4">
-					<form action="#" method="post">
+					<form id="contact-form " action="contact.php" method="post">
 						<div class="w3_agileits_contact_left">
 							<h3 class="mb-3">Contact form</h3>
-							<input type="text" name="Name" placeholder="Your Name" required="">
-							<input type="email" name="Email" placeholder="Your Email" required="">
-							<input type="text" name="Phone" placeholder="Phone Number" required="">
-							<textarea placeholder="Your Message Here..." required=""></textarea>
+							<input type="text" name="name" placeholder="Your Name" required="">
+							<input type="email" name="email" placeholder="Your Email" required="">
+							<input type="text" name="phone" placeholder="Phone Number" required="">
+							<textarea name="message" placeholder="Your Message Here..." required=""></textarea>
 						</div>
 						<div class="w3_agileits_contact_right">
-							<input type="submit" value="Submit">
+							<input type="submit" value="Submit" name="submit">
 						</div>
 						<div class="clearfix"> </div>
 					</form>
