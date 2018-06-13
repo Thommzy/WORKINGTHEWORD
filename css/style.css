@@ -26,6 +26,9 @@ a.navbar-brand {
     font-style: italic;
     font-family: museo;
 }
+h3.post-title {
+    font-size: 27px !important;
+}
 input[type="button"],input[type="submit"],.contact-form input[type="submit"]{
 	transition:0.5s all;
 	-webkit-transition:0.5s all;
@@ -48,6 +51,24 @@ label{
 }
 img{
 	width:100%;
+}
+h1.display-3{
+    text-align: center;
+    font-weight: 600px;
+}
+label.col-sm-3 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #171717;
+    letter-spacing: 4px;
+    position: relative;
+}
+button.btn.btn-secondary {
+    color: white;
+    background: #009688;
+}
+.jumbotron {
+    margin-top: 70px;
 }
 
 
@@ -322,7 +343,7 @@ span.display {
 
 /*-- about --*/
 .welcome h3 {
-    font-size: 35px;
+    font-size: 23px;
     font-weight: 700;
     color: #333;
     letter-spacing: 2px;
@@ -718,7 +739,7 @@ h3.heading {
     letter-spacing: 3px;
 }
 .help_grids p{
-    font-size: 15px;
+    font-size: 18px;
     color: #ccc;
 	line-height: 26px;
     letter-spacing: 1px;
@@ -1087,12 +1108,17 @@ ul.portfolio-area li figure {
 
 /*-- services page --*/
 .inner-banner{
-	background: url(../images/banner5.jpeg) no-repeat 0px 0px;
+	background: url(../images/about_2.jpeg) no-repeat 0px 0px;
 	background-size: cover;
 	min-height: 450px;
 }
 .inner-bannerr{
     background: url(../images/pray_1.jpeg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 450px;
+}
+.inner-bannerr_help{
+    background: url(../images/help_1.jpeg) no-repeat 0px 0px;
     background-size: cover;
     min-height: 450px;
 }
@@ -1183,6 +1209,10 @@ ul.portfolio-area li figure {
 	background: url(../images/pray_2.jpeg) no-repeat 0px 0px;
 	background-size: cover;
 }
+.welcome_bottom_1{
+    background: url(../images/banner4.jpeg) no-repeat 0px 0px;
+    background-size: cover;
+}
  .welcome_right:after{
     border: 4px solid #009688;
     content: "";
@@ -1216,6 +1246,28 @@ ul.portfolio-area li figure {
 	letter-spacing: 1px;
 }
 .welcome_bottom a {
+    color: #fff;
+    letter-spacing: 1px;
+    font-size: 17px;
+    text-decoration: underline;
+}
+.welcome_bottom_1 h4 {
+    font-size: 30px;
+    line-height: 40px;
+    color: #fff;
+}
+.welcome_bottom_1 h4.head {
+    font-size: 26px;
+    color: #fff;
+    letter-spacing:2px
+}
+.welcome_bottom_1 p {
+    font-size: 15px;
+    line-height: 26px;
+    color: #fff;
+    letter-spacing: 1px;
+}
+.welcome_bottom_1 a {
     color: #fff;
     letter-spacing: 1px;
     font-size: 17px;
