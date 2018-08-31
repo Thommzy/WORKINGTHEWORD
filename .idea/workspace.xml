@@ -2,80 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac295cca-570d-4c00-a004-a9ab85d5531d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workingtheword.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workingtheword.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article.html" beforeDir="false" afterPath="$PROJECT_DIR$/article.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confession.html" beforeDir="false" afterPath="$PROJECT_DIR$/confession.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confession_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/confession_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confession_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/confession_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confession_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/confession_3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confession_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/confession_4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confession_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/confession_5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confession_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/confession_6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/donate.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/donate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/flexslider.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/flexslider.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fontawesome-all.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fontawesome-all.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/font.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fonts/font.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/open-sans/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/fonts/open-sans/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/owl.carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/owl.carousel.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/prettyPhoto.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/prettyPhoto.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/stylee.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylee.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily_10.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily_11.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily_12.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily_8.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily_9.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily_devotional.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_devotional.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily_devotional_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_devotional_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/donate.html" beforeDir="false" afterPath="$PROJECT_DIR$/donate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/email.php" beforeDir="false" afterPath="$PROJECT_DIR$/email.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/help.html" beforeDir="false" afterPath="$PROJECT_DIR$/help.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/SmoothScroll.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/SmoothScroll.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/easing.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/easing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-1.7.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-1.7.2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-2.1.4.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-2.1.4.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.flexslider.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.flexslider.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.prettyPhoto.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.prettyPhoto.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.quicksand.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.quicksand.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/move-top.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/move-top.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/odometer.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/odometer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/owl.carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/owl.carousel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marriage.html" beforeDir="false" afterPath="$PROJECT_DIR$/marriage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marriage_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/marriage_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/post_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/post_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/post_4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prayer.html" beforeDir="false" afterPath="$PROJECT_DIR$/prayer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripture.html" beforeDir="false" afterPath="$PROJECT_DIR$/scripture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonies.html" beforeDir="false" afterPath="$PROJECT_DIR$/testimonies.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonies_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/testimonies_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonies_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/testimonies_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonies_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/testimonies_3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonies_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/testimonies_4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thank_you.html" beforeDir="false" afterPath="$PROJECT_DIR$/thank_you.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typography.html" beforeDir="false" afterPath="$PROJECT_DIR$/typography.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workingtheword" beforeDir="false" afterPath="$PROJECT_DIR$/workingtheword" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workingtheword" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -89,17 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="225" column="105" selection-start-line="225" selection-start-column="105" selection-end-line="225" selection-end-column="105" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wordfeast_2018.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/workingtheword/wordfeast_2018.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="379">
+              <caret line="227" column="18" lean-forward="true" selection-start-line="227" selection-start-column="18" selection-end-line="227" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -185,11 +103,6 @@
           <expand>
             <path>
               <item name="workingtheword" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workingtheword" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workingtheword" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workingtheword" type="462c0819:PsiDirectoryNode" />
               <item name="workingtheword" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -280,12 +193,12 @@
       <workItem from="1525377962639" duration="4810000" />
       <workItem from="1525430773965" duration="243000" />
       <workItem from="1525947587367" duration="243000" />
-      <workItem from="1535736540917" duration="1281000" />
+      <workItem from="1535736540917" duration="2324000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10791000" />
+    <option name="totallyTimeSpent" value="11834000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="832" extended-state="6" />
@@ -463,15 +376,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/workingtheword/wordfeast_2018.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="90">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="225" column="105" selection-start-line="225" selection-start-column="105" selection-end-line="225" selection-end-column="105" />
+        <state relative-caret-position="379">
+          <caret line="227" column="18" lean-forward="true" selection-start-line="227" selection-start-column="18" selection-end-line="227" selection-end-column="18" />
         </state>
       </provider>
     </entry>
