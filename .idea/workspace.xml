@@ -1,7 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac295cca-570d-4c00-a004-a9ab85d5531d" name="Default" comment="" />
+    <list default="true" id="ac295cca-570d-4c00-a004-a9ab85d5531d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workingtheword.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workingtheword.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/article.html" beforeDir="false" afterPath="$PROJECT_DIR$/article.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confession.html" beforeDir="false" afterPath="$PROJECT_DIR$/confession.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confession_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/confession_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confession_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/confession_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confession_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/confession_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confession_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/confession_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confession_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/confession_5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confession_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/confession_6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/donate.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/donate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/flexslider.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/flexslider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fontawesome-all.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fontawesome-all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/font.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fonts/font.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/open-sans/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/fonts/open-sans/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/owl.carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/owl.carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/prettyPhoto.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/prettyPhoto.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/stylee.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylee.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_10.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_11.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_12.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_8.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_9.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_devotional.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_devotional.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_devotional_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/daily_devotional_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/donate.html" beforeDir="false" afterPath="$PROJECT_DIR$/donate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/email.php" beforeDir="false" afterPath="$PROJECT_DIR$/email.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/help.html" beforeDir="false" afterPath="$PROJECT_DIR$/help.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/SmoothScroll.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/SmoothScroll.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/easing.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/easing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-1.7.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-1.7.2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-2.1.4.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-2.1.4.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.flexslider.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.flexslider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.prettyPhoto.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.prettyPhoto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.quicksand.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.quicksand.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/move-top.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/move-top.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/odometer.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/odometer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/owl.carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/owl.carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/marriage.html" beforeDir="false" afterPath="$PROJECT_DIR$/marriage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/marriage_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/marriage_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/post_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/post_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/post_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prayer.html" beforeDir="false" afterPath="$PROJECT_DIR$/prayer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripture.html" beforeDir="false" afterPath="$PROJECT_DIR$/scripture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testimonies.html" beforeDir="false" afterPath="$PROJECT_DIR$/testimonies.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testimonies_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/testimonies_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testimonies_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/testimonies_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testimonies_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/testimonies_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testimonies_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/testimonies_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thank_you.html" beforeDir="false" afterPath="$PROJECT_DIR$/thank_you.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typography.html" beforeDir="false" afterPath="$PROJECT_DIR$/typography.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workingtheword" beforeDir="false" afterPath="$PROJECT_DIR$/workingtheword" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,12 +86,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9418">
-              <caret line="554" column="0" lean-forward="false" selection-start-line="554" selection-start-column="0" selection-end-line="554" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="555">
+              <caret line="225" column="105" selection-start-line="225" selection-start-column="105" selection-end-line="225" selection-end-column="105" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wordfeast_2018.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/workingtheword/wordfeast_2018.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testimonies_3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testimonies_3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="305" />
             </state>
           </provider>
         </entry>
@@ -24,41 +116,20 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3859">
-              <caret line="281" column="20" lean-forward="false" selection-start-line="281" selection-start-column="20" selection-end-line="281" selection-end-column="20" />
-              <folding>
-                <marker date="1525809948246" expanded="true" signature="9518:9742" ph="..." />
-                <marker date="1525809948246" expanded="true" signature="9518:9751" ph="..." />
-                <marker date="1525809948246" expanded="true" signature="9518:9759" ph="..." />
-                <marker date="1525809948246" expanded="false" signature="9518:9769" ph="..." />
-                <marker date="1525809948246" expanded="true" signature="9518:12011" ph="..." />
-                <marker date="1525809948246" expanded="true" signature="9533:9732" ph="..." />
-                <marker date="1525809948246" expanded="false" signature="9834:10514" ph="..." />
-                <marker date="1525809948246" expanded="true" signature="9859:10507" ph="..." />
-                <marker date="1525809948246" expanded="true" signature="9894:10499" ph="..." />
-                <marker date="1525809948246" expanded="true" signature="9927:9994" ph="..." />
-                <marker date="1525809948246" expanded="true" signature="10027:10490" ph="..." />
-                <marker date="1525809948246" expanded="true" signature="10075:10480" ph="..." />
-                <marker date="1525809948246" expanded="true" signature="10865:11044" ph="..." />
-                <marker date="1525809948246" expanded="true" signature="10899:11031" ph="{...}" />
-                <marker date="1525809948246" expanded="true" signature="10933:11024" ph="{...}" />
-                <marker date="1525809948246" expanded="true" signature="11320:11524" ph="..." />
-                <marker date="1525809948246" expanded="true" signature="11359:11512" ph="{...}" />
-                <marker date="1525809948246" expanded="true" signature="11398:11506" ph="{...}" />
-                <marker date="1525809948246" expanded="true" signature="11593:11909" ph="..." />
-                <marker date="1525809948246" expanded="true" signature="11626:11897" ph="{...}" />
-                <marker date="1525809948246" expanded="true" signature="11631:11826" ph="/*...*/" />
-              </folding>
+            <state relative-caret-position="4215">
+              <caret line="281" column="6" selection-start-line="281" selection-start-column="6" selection-end-line="281" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="services.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="services.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/services.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-              <folding />
+            <state relative-caret-position="45">
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+              <folding>
+                <element signature="e#10054#10061#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,9 +137,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3604">
-              <caret line="212" column="104" lean-forward="false" selection-start-line="212" selection-start-column="104" selection-end-line="212" selection-end-column="104" />
-              <folding />
+            <state relative-caret-position="3180">
+              <caret line="212" column="104" selection-start-line="212" selection-start-column="104" selection-end-line="212" selection-end-column="104" />
             </state>
           </provider>
         </entry>
@@ -78,18 +148,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/services.html" />
+        <option value="$PROJECT_DIR$/workingtheword/wordfeast_2018.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -99,32 +165,21 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1346" />
-    <option name="height" value="628" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="832" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,21 +190,23 @@
             <path>
               <item name="workingtheword" type="b2602c69:ProjectViewProjectNode" />
               <item name="workingtheword" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="workingtheword" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AngularJs-Quiz-Script" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,29 +222,12 @@
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" />
@@ -197,30 +237,13 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
-      <envs />
       <patterns />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
@@ -233,21 +256,18 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
     </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -260,42 +280,44 @@
       <workItem from="1525377962639" duration="4810000" />
       <workItem from="1525430773965" duration="243000" />
       <workItem from="1525947587367" duration="243000" />
+      <workItem from="1535736540917" duration="1281000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9510000" />
+    <option name="totallyTimeSpent" value="10791000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="832" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25416037" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25751072" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,186 +326,152 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8806">
-          <caret line="518" column="0" lean-forward="false" selection-start-line="518" selection-start-column="0" selection-end-line="518" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="8310">
+          <caret line="554" selection-start-line="554" selection-end-line="554" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4777">
-          <caret line="281" column="20" lean-forward="false" selection-start-line="281" selection-start-column="20" selection-end-line="281" selection-end-column="20" />
-          <folding>
-            <marker date="1525809948246" expanded="true" signature="9518:9742" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="9518:9751" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="9518:9759" ph="..." />
-            <marker date="1525809948246" expanded="false" signature="9518:9769" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="9518:12011" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="9533:9732" ph="..." />
-            <marker date="1525809948246" expanded="false" signature="9834:10514" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="9859:10507" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="9894:10499" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="9927:9994" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="10027:10490" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="10075:10480" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="10865:11044" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="10899:11031" ph="{...}" />
-            <marker date="1525809948246" expanded="true" signature="10933:11024" ph="{...}" />
-            <marker date="1525809948246" expanded="true" signature="11320:11524" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="11359:11512" ph="{...}" />
-            <marker date="1525809948246" expanded="true" signature="11398:11506" ph="{...}" />
-            <marker date="1525809948246" expanded="true" signature="11593:11909" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="11626:11897" ph="{...}" />
-            <marker date="1525809948246" expanded="true" signature="11631:11826" ph="/*...*/" />
-          </folding>
+        <state relative-caret-position="4215">
+          <caret line="281" column="6" lean-forward="true" selection-start-line="281" selection-start-column="6" selection-end-line="281" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3536">
-          <caret line="208" column="104" lean-forward="false" selection-start-line="208" selection-start-column="104" selection-end-line="208" selection-end-column="104" />
-          <folding />
+        <state relative-caret-position="3180">
+          <caret line="212" column="104" selection-start-line="212" selection-start-column="104" selection-end-line="212" selection-end-column="104" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/services.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-          <folding />
+        <state relative-caret-position="45">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding>
+            <element signature="e#10054#10061#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8806">
-          <caret line="518" column="0" lean-forward="false" selection-start-line="518" selection-start-column="0" selection-end-line="518" selection-end-column="0" />
-          <folding />
+          <caret line="518" selection-start-line="518" selection-end-line="518" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4777">
-          <caret line="281" column="20" lean-forward="false" selection-start-line="281" selection-start-column="20" selection-end-line="281" selection-end-column="20" />
-          <folding>
-            <marker date="1525809948246" expanded="true" signature="9518:9742" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="9518:9751" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="9518:9759" ph="..." />
-            <marker date="1525809948246" expanded="false" signature="9518:9769" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="9518:12011" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="9533:9732" ph="..." />
-            <marker date="1525809948246" expanded="false" signature="9834:10514" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="9859:10507" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="9894:10499" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="9927:9994" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="10027:10490" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="10075:10480" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="10865:11044" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="10899:11031" ph="{...}" />
-            <marker date="1525809948246" expanded="true" signature="10933:11024" ph="{...}" />
-            <marker date="1525809948246" expanded="true" signature="11320:11524" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="11359:11512" ph="{...}" />
-            <marker date="1525809948246" expanded="true" signature="11398:11506" ph="{...}" />
-            <marker date="1525809948246" expanded="true" signature="11593:11909" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="11626:11897" ph="{...}" />
-            <marker date="1525809948246" expanded="true" signature="11631:11826" ph="/*...*/" />
-          </folding>
+          <caret line="281" column="20" selection-start-line="281" selection-start-column="20" selection-end-line="281" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3536">
-          <caret line="208" column="104" lean-forward="false" selection-start-line="208" selection-start-column="104" selection-end-line="208" selection-end-column="104" />
-          <folding />
+          <caret line="208" column="104" selection-start-line="208" selection-start-column="104" selection-end-line="208" selection-end-column="104" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/services.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-          <folding />
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding>
+            <element signature="e#10054#10061#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3536">
-          <caret line="208" column="104" lean-forward="false" selection-start-line="208" selection-start-column="104" selection-end-line="208" selection-end-column="104" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3604">
-          <caret line="212" column="104" lean-forward="false" selection-start-line="212" selection-start-column="104" selection-end-line="212" selection-end-column="104" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9418">
-          <caret line="554" column="0" lean-forward="false" selection-start-line="554" selection-start-column="0" selection-end-line="554" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="8806">
+          <caret line="518" selection-start-line="518" selection-end-line="518" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3859">
-          <caret line="281" column="20" lean-forward="false" selection-start-line="281" selection-start-column="20" selection-end-line="281" selection-end-column="20" />
-          <folding>
-            <marker date="1525809948246" expanded="true" signature="9518:9742" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="9518:9751" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="9518:9759" ph="..." />
-            <marker date="1525809948246" expanded="false" signature="9518:9769" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="9518:12011" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="9533:9732" ph="..." />
-            <marker date="1525809948246" expanded="false" signature="9834:10514" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="9859:10507" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="9894:10499" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="9927:9994" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="10027:10490" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="10075:10480" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="10865:11044" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="10899:11031" ph="{...}" />
-            <marker date="1525809948246" expanded="true" signature="10933:11024" ph="{...}" />
-            <marker date="1525809948246" expanded="true" signature="11320:11524" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="11359:11512" ph="{...}" />
-            <marker date="1525809948246" expanded="true" signature="11398:11506" ph="{...}" />
-            <marker date="1525809948246" expanded="true" signature="11593:11909" ph="..." />
-            <marker date="1525809948246" expanded="true" signature="11626:11897" ph="{...}" />
-            <marker date="1525809948246" expanded="true" signature="11631:11826" ph="/*...*/" />
-          </folding>
+        <state relative-caret-position="4777">
+          <caret line="281" column="20" selection-start-line="281" selection-start-column="20" selection-end-line="281" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3536">
+          <caret line="208" column="104" selection-start-line="208" selection-start-column="104" selection-end-line="208" selection-end-column="104" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/services.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-          <folding />
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding>
+            <element signature="e#10054#10061#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3536">
+          <caret line="208" column="104" selection-start-line="208" selection-start-column="104" selection-end-line="208" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3180">
+          <caret line="212" column="104" selection-start-line="212" selection-start-column="104" selection-end-line="212" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4215">
+          <caret line="281" column="6" selection-start-line="281" selection-start-column="6" selection-end-line="281" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding>
+            <element signature="e#10054#10061#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testimonies_3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="305" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workingtheword/wordfeast_2018.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="225" column="105" selection-start-line="225" selection-start-column="105" selection-end-line="225" selection-end-column="105" />
         </state>
       </provider>
     </entry>
